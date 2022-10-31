@@ -6,11 +6,17 @@
         },
         {
             "path": "base-objects",
-            "default": false
+            "default": false,
+            "package": "Academy_Demo_Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "name": "cohortFall22",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0"
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "Academy_Demo_Package": "0Ho5Y000000k9jhSAA"
+    }
 }
