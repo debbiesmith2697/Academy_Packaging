@@ -18,6 +18,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "Academy_Demo_Package": "0Ho5Y000000k9jhSAA",
-        "Academy_Demo_Package@0.1.0-1-main": "04t5Y000001eUNPQA2"
+        "Academy_Demo_Package@0.1.0-1-main": "04t5Y000001eUNPQA2",
+        "Academy_Demo_Package@0.1.0-2-main": "04t5Y000001eUNZQA2"
     }
 }
